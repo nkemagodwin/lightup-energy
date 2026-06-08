@@ -32,7 +32,7 @@ export default function Footer() {
             Lightup<span className="text-cyan-400"> Energy</span>
           </Link>
           <p className="max-w-xs text-sm leading-relaxed text-gray-400">
-            Illuminating spaces with premium electrical solutions and trusted service since 2010.
+            Illuminating spaces with premium electrical solutions and trusted service since 2016.
           </p>
           <div className="flex gap-4">
             <a
